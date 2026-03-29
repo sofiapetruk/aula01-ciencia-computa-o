@@ -1,0 +1,16 @@
+{
+    "telemetria": {
+        "temperatura": {
+            "interna": "22°C",
+            "externa": "-55°C"
+        },
+        "integridadeEstrutural": 1,
+        "niveisEnergia": "85%",
+        "pressaoTanques": "50 psi",
+        "statusModulos": {
+            "comunicacao": "Ativo",
+            "navegacao": "Ativo",
+            "controleVida": "Ativo"
+        }
+    }
+}
